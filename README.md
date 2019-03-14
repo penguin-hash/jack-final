@@ -1,6 +1,8 @@
 # 起動方法
 dockerを入れた状態でターミナルから　sh quick_start.sh と入力（最初インストールされるファイルが4GBを超えることがあるので注意）
-起動されたら、plyaerなら　user:player1 pass:5KFyaxQW8L6uXFB6wSgC44EsAbzC7ideyhhQ68tiYfdKQp69xKo と入力
+
+起動できたら、plyaerなら　user:player1 pass:5KFyaxQW8L6uXFB6wSgC44EsAbzC7ideyhhQ68tiYfdKQp69xKo と入力
+
 owner(任意の対象にポイントを与えることができる）なら　user:creochancute pass:5JGoJWSFWLbqxjisH3m8AyVmQZDim2F3Vxr8CbaWqVeqYvz8eHg と入力
 
 もしログインの際、401エラー（unauthorized)が出たら、おそらくチェーンを起動したばかりで処理が追いつかないためなので、少し時間をおくかもう一度起動すれば大丈夫です。
